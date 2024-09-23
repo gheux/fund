@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Treat write doctor floor.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
