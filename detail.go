@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Course admit future television example.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
