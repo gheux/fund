@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Property generation some help.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
