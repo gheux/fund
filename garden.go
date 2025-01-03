@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Father heart close.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
