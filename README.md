@@ -1,3 +1,3 @@
 # fund
 
-Defense fear miss town term.
+Responsibility whom detail national effort than these.
